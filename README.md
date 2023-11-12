@@ -32,7 +32,5 @@ Windows:`32`/`64`
 
 ## 下载地址
 
-`链接`:https://pan.baidu.com/s/1uOCK5lt2O_5ugPWoTlaKtg?pwd=l44s 
-
-
+`链接`:https://pan.baidu.com/s/1fh26FFoflPEmFojE-RFuNQ?pwd=d43c 
 
