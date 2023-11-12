@@ -28,9 +28,11 @@ Windows:`32`/`64`
 
 `自动连接`:间隔`10秒`自动登录校园网
 
+
+
 ## 下载地址
 
-`链接`:https://github.com/bowjacon/zznet/releases/download/NetWorkLogin/default.exe
+`链接`:https://pan.baidu.com/s/1uOCK5lt2O_5ugPWoTlaKtg?pwd=l44s 
 
 
 
