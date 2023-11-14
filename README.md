@@ -14,7 +14,7 @@ Windows:`32`/`64`
 
 ## 截图
 
-<img src="https://github.com/bowjacon/zznet/blob/main/ScreenShot/ScrenShot.png" width="210px">
+<img src="https://github.com/bowjacon/zznet/blob/main/ScreenShot/ScreenShot.png" width="210px">
 
 
 
