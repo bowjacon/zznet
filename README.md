@@ -32,7 +32,7 @@ Windows:`32`/`64`
 
 ## 下载地址
 
-`链接`:https://pan.baidu.com/s/1zmO4FN0Frkes-uNdvnVE4Q?pwd=eyc8
+`链接`:链接：https://pan.baidu.com/s/1gF29G0KQ_GSI7h0TzPPrYA?pwd=jwg0 
 
 
 
